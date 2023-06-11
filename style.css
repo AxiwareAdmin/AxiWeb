@@ -1076,11 +1076,16 @@
                     top: 60px;
                 }
 
+                .bgBannerText1{
+                    margin-top: 300px;
+                }
+
                 .footerWrapper {
                     display: flex;
                     color: rgb(5, 11, 68);
                     justify-content: space-around;
                     align-items: center;
+                    height: 250px; ;
                 }
 
                 .footerLogo {
@@ -1092,8 +1097,6 @@
                     width: 220px;
                     height: 60px;
                 }
-
-
 
                 .title {
                     font-size: 20px;
@@ -1115,10 +1118,12 @@
                 .footerServices {
                     display: flex;
                     justify-content: space-between;
-                    padding-left: 10px;
                 }
 
                 .footer hr {
                     height: 200px;
                     color: rgb(119, 124, 133);
                 }
+            .Copyright p {
+            text-align: center;
+            }
