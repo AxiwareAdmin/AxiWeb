@@ -1,0 +1,73 @@
+ /* --Web Apps --  */
+.OurSolutions {
+    background-color:none;
+    display: flex;
+    height: 650px;
+justify-content: center;
+}
+
+.WebApplications {
+    margin-top: 175px;
+    display: flex;
+    background-color: #73a5da;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+}
+
+.WebAppic img {
+    margin-top: 175px;
+    display: inline-flex;
+    height: 400px;
+    width: 400px;
+}
+
+ /* --Mobile Apps --  */
+
+.OurSolutionsMob {
+    background-color:none;
+    display: flex;
+    height: 650px;
+justify-content: center;
+}
+
+.MobApp {
+    margin-top: 175px;
+    display: flex;
+    background-color: #73a5da;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+}
+
+.MobAppic img {
+    margin-top: 175px;
+    display: inline-flex;
+    height: 400px;
+    width: 400px;
+}
+
+ /* --Maintenance & Support --  */
+
+ .OurSolutionsMaint {
+    background-color:none;
+    display: flex;
+    height: 650px;
+justify-content: center;
+}
+
+.MaintenanceSupport {
+    margin-top: 175px;
+    display: flex;
+    background-color: #73a5da;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+}
+
+.MaintPic img {
+    margin-top: 175px;
+    display: inline-flex;
+    height: 400px;
+    width: 400px;
+}
